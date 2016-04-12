@@ -1,0 +1,20 @@
+{
+    "webapp" : "src/app/LivePublisher-web",
+    "mock" : "src/test/LivePublisher-web",
+    "build" : "build",
+    "buildWebAppPath" : "/app/LivePublisher-web",
+    "buildStaticPath" : "/static",
+    "contextPath ": "",
+    "openurl" : "http://localhost:9000/",
+    "port": 9000,
+    "hostname": "localhost",
+    "entryJSPath" : "/js/module",
+    "tmpDir" : ".tmp",
+    "jsPath" : "/js",
+    "cssPath" : "/style/css",
+    "scssPath" : "/style/scss",
+    "imgPath" : "/style/img",
+    "htmlPath" : "/html",
+    "flashPath" : "/resources",
+    "ajaxPrefix" : "/xhr"
+}
