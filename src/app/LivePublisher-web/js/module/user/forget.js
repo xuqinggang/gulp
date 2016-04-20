@@ -1,9 +1,9 @@
 /*global $*/
 define(function(require, exports, module) {
+    console.log($);
     'use strict';
     // var urls = require('../global/urlMap'),
-        var util = require('../../lib/global/util.common.js'),
-            popup = require('../../lib/dialog/quickDialog'),
+        var util = require('../../depend/util/util.common'),
             service,
             validator;
 
